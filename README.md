@@ -291,7 +291,7 @@ copies or substantial portions of the Software.
 
 ## 👨‍💻 Developer
 
-**Ihsas** - *Full Stack Developer*
+**THANUSHAN** - *Full Stack Developer*
 
 - **Email**: [thanushan1022@gmail.com](mailto:thanushan1022@gmail.com)
 

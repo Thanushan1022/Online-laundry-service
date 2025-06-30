@@ -293,7 +293,7 @@ copies or substantial portions of the Software.
 
 **Ihsas** - *Full Stack Developer*
 
-- **Email**: [mohamedihsas001@gmail.com](mailto:mohamedihsas001@gmail.com)
+- **Email**: [thanushan1022@gmail.com](mailto:thanushan1022@gmail.com)
 
 
 ### 🙏 Acknowledgments
